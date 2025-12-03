@@ -26,9 +26,6 @@ Además, registra automáticamente cada lectura en una **base de datos local (Ro
 
 ---
 
-```text
-https://api.open-meteo.com/v1/forecast?latitude=-33.45&longitude=-70.66&current=temperature_2m,relative_humidity_2m
----
 
 ```bash
 git clone https://github.com/Dafne-Calderon/OrchidMonitor.git
