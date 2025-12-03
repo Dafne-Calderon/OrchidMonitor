@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="pink_400">#EC407A</color>
+    <color name="purple_600">#8E24AA</color>
+    <color name="purple_800">#5E0080</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Orchid Monitor 🌸</string>
+    <style name="Theme.OrchidMonitor" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_600</item>
+        <item name="colorPrimaryVariant">@color/purple_800</item>
+        <item name="colorAccent">@color/pink_400</item>
+        <item name="android:statusBarColor">@color/purple_800</item>
+        <item name="android:navigationBarColor">@color/purple_800</item>
+        <item name="android:windowBackground">@drawable/bg_gradient</item>
+    </style>
+</resources>

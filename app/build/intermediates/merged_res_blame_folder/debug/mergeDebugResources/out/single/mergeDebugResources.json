@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.orchidmonitor.app-debug-35:/layout_item_reading.xml.flat",
+        "source": "com.example.orchidmonitor.app-main-37:/layout/item_reading.xml"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\layout_activity_calendar.xml.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\layout_item_reading.xml.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\layout\\item_reading.xml"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\drawable_bg_gradient.xml.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\drawable_orchid_3d.xml.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\drawable\\orchid_3d.xml"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\layout_activity_sensor.xml.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\layout\\activity_sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-debug-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\calde\\.gradle\\daemon\\9.0-milestone-1\\com.example.orchidmonitor.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]

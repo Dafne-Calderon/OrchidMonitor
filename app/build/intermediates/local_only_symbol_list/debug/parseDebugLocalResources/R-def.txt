@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color pink_400
+color purple_600
+color purple_800
+color white
+drawable bg_gradient
+drawable ic_launcher_background
+drawable orchid_3d
+id btnCalendario
+id btnConectarSensor
+id btnGuardarRiego
+id btnHistorial
+id btnSensor
+id recyclerHistorial
+id timePickerRiego
+id txtEstadoConexion
+id txtFecha
+id txtHumedad
+id txtTemperatura
+id txtTituloHistorial
+layout activity_calendar
+layout activity_history
+layout activity_main
+layout activity_sensor
+layout activity_splash
+layout item_reading
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Theme.OrchidMonitor

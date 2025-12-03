@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.OrchidMonitor" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_600</item>
+        <item name="colorPrimaryVariant">@color/purple_800</item>
+        <item name="colorAccent">@color/pink_400</item>
+        <item name="android:statusBarColor">@color/purple_800</item>
+        <item name="android:navigationBarColor">@color/purple_800</item>
+        <item name="android:windowBackground">@drawable/bg_gradient</item>
+    </style>
+</resources>
