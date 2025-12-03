@@ -28,4 +28,4 @@ Además, registra automáticamente cada lectura en una **base de datos local (Ro
 
 
 ```bash
-git clone https://github.com/Dafne-Calderon/OrchidMonitor.git
+https://github.com/Dafne-Calderon/OrchidMonitor.git
