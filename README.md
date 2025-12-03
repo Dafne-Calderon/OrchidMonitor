@@ -1,6 +1,6 @@
 #  OrchidMonitor – Monitoreo Ambiental
 
-**OrchidMonitor** es una aplicación móvil desarrollada en **Java + Android Studio** que permite visualizar en tiempo real la **temperatura** y **humedad ambiental** utilizando la API pública **Open-Meteo**.  
+**OrchidMonitor** es una aplicación móvil desarrollada en **Java** que permite visualizar en tiempo real la **temperatura** y **humedad ambiental** utilizando la API pública **Open-Meteo**.  
 Además, registra automáticamente cada lectura en una **base de datos local (Room)** y muestra un **historial ambiental** de todas las mediciones realizadas por el usuario.
 
 
